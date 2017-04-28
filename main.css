@@ -1,0 +1,35 @@
+
+#jack{
+  z-index: 100;
+  position: absolute;
+  height: 80%;
+  width: 95%;
+  opacity: 0;
+}
+
+h1{
+  z-index: 0;
+  padding-left: 290px;
+  top: 50px;
+  position: relative;
+}
+
+#myGameCanvas
+{
+  display: block;
+  margin: 0 auto;
+  margin-top: 200px;
+  box-shadow: 0 0 3px rgb(0, 0, 0);
+}
+
+p
+{
+  width: 800px;
+  margin: 0 auto;
+}
+
+img{
+  position:absolute;
+  left: 24%;
+  top:17%;
+}
